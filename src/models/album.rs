@@ -94,7 +94,7 @@ pub struct Album {
     pub fans: u64,
 
     /// `The album's rate`
-    pub rating: u64,
+    //pub rating: u64,
 
     /// `The album's release date`
     pub release_date: String,
